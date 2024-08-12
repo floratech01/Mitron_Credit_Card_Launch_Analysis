@@ -32,3 +32,25 @@ ones the target market was decided,we run a trial statistical testing(Hypothesis
 + Outlier Treatment: IQR,std Dev,mode
 + Data Visualization:Histogram,Countplot
    
+# Concepts used in phase 2
++ Cental limit theorem
++ Random sampling and sampling Bias
++ Hypothesis Testing
++ Confidence intervals,P Value
++ Z test, A/B Testing
++ One and two tail test
++ Standard Error,type 1 and type 2 Error
++ Statistical power, Effect size
+
+# Observations:
++ Top 3 purchasing categories of customers in age group (18 -25) : Electronics, Fashion & Apparel, Beauty & personal care
++ Top platforms : Amazon, Flipkart, Alibaba
+
+# Final Target Market for the trail Credit Card Launch
+
+1. People with age group of 18 -25 accounts to ~26% of customer base in the data
+2. Avg annual income of this group is less than 50k
+3. They don't have much credit history which is getting reflected in their credit score and credit limit
+4. Usage of credit cards as payment type is relatively low compared to other groups
+5. Top 3 most shopping products categories : Electronics, Fashion & Apparel, Beauty & Personal care
+6 Avg transaction amount made with credit cards is also low compared to other groups
